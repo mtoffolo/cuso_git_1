@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 suhhsdusudhsuhdushdhsuhhus
+=======
+Isso é ahhhhh
+>>>>>>> develop
