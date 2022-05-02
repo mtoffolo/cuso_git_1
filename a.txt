@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-suhhsdusudhsuhdushdhsuhhus
-=======
 Isso é ahhhhh
->>>>>>> develop
+
+Testando a Funcionabilidade A
